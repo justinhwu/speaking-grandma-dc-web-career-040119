@@ -16,8 +16,8 @@
 #  if (phrase== phrase.upcase)
 #    return "NO, NOT SINCE 1938!"
 #  else if (phrase == "I love you grandma!".upcase)
-    return "i love you too pumpkin!".upcase
-  else
-    return "huh! speak up, sonny!".upcase
-  end 
-end 
+#    return "i love you too pumpkin!".upcase
+#  else
+#    return "huh! speak up, sonny!".upcase
+#  end 
+# end 
